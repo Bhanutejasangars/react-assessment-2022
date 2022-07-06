@@ -1,0 +1,13 @@
+.homepage {
+  height: 91vh;
+  overflow-x: hidden;
+  background-image: linear-gradient(#054752, #0a8297);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #bbb8b8;
+}
+.company-name {
+  color: #830303;
+}
